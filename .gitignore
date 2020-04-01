@@ -22,7 +22,6 @@ target/*
 *.zip
 *.tar.gz
 *.rar
-*.xml
 *.jar.original
 *.lst
 *.MF
